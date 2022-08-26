@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Asad Hijawi. I'm working with newest front-end frameworks like Angular, React and Vue. Also experienced with Javascript, HTML5 ,CSS3",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,107 +11,106 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "HR Management",
+        "startDate": "2022",
+        "description": "A webesite page that i worked on using JS, HTML5, CSS3 where it shows the data of a certain company employees as cards with their data on it, i got involved with so many different wasy of coding during the process which gave me experience in how to deal with DOM.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/hr/Screenshot (12).png"
         ],
-        "url": "",
+        "url": "https://asadhijj.github.io/HR-management-system/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+             
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+            
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+            
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Restaurant Menu",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for making a page that takes user info inside of a form and these info entered as a table so the user can look at his choices all at once like a menu.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/restaurant/Screenshot (10).png",
+          "images/portfolio/restaurant/Screenshot (15).png"
         ],
-        "url": "https://github.com",
+        "url": "https://asadhijj.github.io/Restaurant/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+             
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+            
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+            
+          }
+        ]
+      },
+      {
+        "title": "Horned Beasts",
+        "startDate": "2022",
+        "description": "My first app using React tecchnology and Bootstrap. I had to develop front-end implementation for app that shows Cards of different Horned Beasts that can you vote for you favorite ones by clicking on them and also a Modal with info can be shown once clicked on the Modal button and I added a form which filters th Beasts by their number of horns so people can see which Beasts have a specific number of horns.",
+        "images": [
+          "images/portfolio/horned/Screenshot (16).png",
+          "images/portfolio/horned/Screenshot (17).png"
+        ],
+        "url": "https://beastswithhornsarecool.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+             
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Aptel",
+        "title": "Coordination Engineer",
+        "years": "6.2021 - 4.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Non"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "non"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "ASAC",
+        "title": "student",
+        "years": "07.2022 - present",
         "mainTech": [
-          "Angular 7/8"
+          "REACT"
         ],
         "technologies": [
-          "RxJS",
+          "Python",
           "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML5",
+          "CSS3",
+          "JavaScript"
+          
         ]
       }
     ]
